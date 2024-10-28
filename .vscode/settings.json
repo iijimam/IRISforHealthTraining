@@ -1,0 +1,17 @@
+{
+    "objectscript.conn": {
+        "active": true,
+        "server": "iristraining",
+        "ns": "USER"
+    },
+    "intersystems.servers": {
+        "iristraining":{
+            "webServer": {
+                "host": "127.0.0.1",
+                "port":8080,
+                "scheme": "http",
+            },
+            "username": "SuperUser"
+        }
+    }
+}
