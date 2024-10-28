@@ -56,3 +56,18 @@
     docker compose rm
     ```
 
+## アクセス情報
+
+ポート8080を使用しています。適宜変更してください。
+
+
+- [管理ポータルトップ](http://localhost:8080/csp/sys/UtilHome.csp)
+
+    ユーザ名：SuperUser
+    
+    パスワード：SYS
+
+
+
+- [WebGateway管理画面](http://localhost:8080/csp/bin/systems/module.cxw)
+
